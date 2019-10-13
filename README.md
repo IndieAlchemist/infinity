@@ -1,3 +1,3 @@
 # Animated infinity
 
-Link: 
+Link: https://indiealchemist.github.io/infinity/
